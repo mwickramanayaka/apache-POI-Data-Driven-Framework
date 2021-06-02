@@ -27,8 +27,8 @@ public class ExcelDataProvider {
 	public void test1(String USERNAME, String PASSWORD) throws InterruptedException {
 		System.out.println(USERNAME + "|" + PASSWORD);
 		
-		driver.get("https://vle.bit.lk/login/index.php");
-		driver.findElement(By.id("username")).sendKeys(USERNAME);
+		driver.get("https://www.saucedemo.com");
+		driver.findElement(By.id("user-name")).sendKeys(USERNAME);
 		driver.findElement(By.id("password")).sendKeys(PASSWORD);
 		Thread.sleep(2000);
 		
