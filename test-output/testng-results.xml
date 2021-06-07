@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-02T21:53:15 IST" name="Default suite" finished-at="2021-06-02T21:53:32 IST" duration-ms="17434">
+  <suite started-at="2021-06-03T03:48:58 IST" name="Default suite" finished-at="2021-06-03T03:49:14 IST" duration-ms="16717">
     <groups>
     </groups>
-    <test started-at="2021-06-02T21:53:15 IST" name="Default test" finished-at="2021-06-02T21:53:32 IST" duration-ms="17434">
+    <test started-at="2021-06-03T03:48:58 IST" name="Default test" finished-at="2021-06-03T03:49:14 IST" duration-ms="16717">
       <class name="util.ExcelDataProvider">
-        <test-method is-config="true" signature="setUpTest()[pri:0, instance:util.ExcelDataProvider@5e0826e7]" started-at="2021-06-02T21:53:15 IST" name="setUpTest" finished-at="2021-06-02T21:53:18 IST" duration-ms="3286" status="PASS">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:util.ExcelDataProvider@6dc17b83]" started-at="2021-06-03T03:48:58 IST" name="setUpTest" finished-at="2021-06-03T03:49:01 IST" duration-ms="3484" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:util.ExcelDataProvider@5e0826e7]" started-at="2021-06-02T21:53:19 IST" name="test1" data-provider="test1data" finished-at="2021-06-02T21:53:25 IST" duration-ms="5479" status="PASS">
+        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:util.ExcelDataProvider@6dc17b83]" started-at="2021-06-03T03:49:03 IST" name="test1" data-provider="test1data" finished-at="2021-06-03T03:49:08 IST" duration-ms="5670" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:util.ExcelDataProvider@5e0826e7]" started-at="2021-06-02T21:53:25 IST" name="test1" data-provider="test1data" finished-at="2021-06-02T21:53:29 IST" duration-ms="3595" status="PASS">
+        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:util.ExcelDataProvider@6dc17b83]" started-at="2021-06-03T03:49:08 IST" name="test1" data-provider="test1data" finished-at="2021-06-03T03:49:11 IST" duration-ms="2649" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:util.ExcelDataProvider@5e0826e7]" started-at="2021-06-02T21:53:29 IST" name="test1" data-provider="test1data" finished-at="2021-06-02T21:53:32 IST" duration-ms="3555" status="PASS">
+        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:util.ExcelDataProvider@6dc17b83]" started-at="2021-06-03T03:49:11 IST" name="test1" data-provider="test1data" finished-at="2021-06-03T03:49:14 IST" duration-ms="2886" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,7 +59,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:util.ExcelDataProvider@5e0826e7]" started-at="2021-06-02T21:53:32 IST" name="tearDown" finished-at="2021-06-02T21:53:32 IST" duration-ms="329" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:util.ExcelDataProvider@6dc17b83]" started-at="2021-06-03T03:49:14 IST" name="tearDown" finished-at="2021-06-03T03:49:14 IST" duration-ms="500" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
